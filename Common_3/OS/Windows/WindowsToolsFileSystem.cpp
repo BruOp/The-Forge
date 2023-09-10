@@ -23,6 +23,7 @@
 */
 
 #include "../../Application/Config.h"
+#include <wchar.h>
 
 #include "shlobj.h"
 #include "commdlg.h"
